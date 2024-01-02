@@ -1,4 +1,5 @@
 # Verilog-Calculator-ASCII
+# NOTE: USE SYSTEM-VERILOG OTHERWISE THERE WILL BE A SYNTAX ERROR
 ## SUPPORTS 3-LEVEL NESTING OF ()
 Verilog Calculator which takes 8 bit ASCII char input, clk and a test bench which reads string of expersion from .txt file. 
 
