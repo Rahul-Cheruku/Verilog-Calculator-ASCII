@@ -1,5 +1,6 @@
 # Verilog-Calculator-ASCII
-Verilog Calculator which takes 8 bit ASCII char input, clk and a test bench which reads string of expersion from .txt file
+## SUPPORTS 3-LEVEL NESTING OF ()
+Verilog Calculator which takes 8 bit ASCII char input, clk and a test bench which reads string of expersion from .txt file. 
 
 Welcome to the Verilog ASCII Calculator project! This hardware calculator is designed to perform basic arithmetic operations on single-digit operands (0 to 9) with support for one operator. The calculator reads input from a file and operates in a clock-driven environment.
 
@@ -16,9 +17,8 @@ Welcome to the Verilog ASCII Calculator project! This hardware calculator is des
 
     Example `input.txt`:
     ```
-    5
-    +
-    3
+    5+3
+    5*(5+(6*(3-2))) 
     ```
 
 3. **Run the Simulation:**
