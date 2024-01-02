@@ -50,12 +50,5 @@ The calculator operates in a stack-based manner and supports the following opera
 
 Contributions are welcome! If you have ideas for improvements, bug fixes, or additional features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [insert your chosen open-source license, e.g., MIT License]. See the [LICENSE](LICENSE) file for more details.
-
-## Disclaimer
-
-This project is provided as-is without any warranty. Please refer to the license for more details.
 
 Explore the world of Verilog-based ASCII calculation with this simple yet educational calculator! Happy computing!
