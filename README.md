@@ -5,6 +5,10 @@ Verilog Calculator which takes 8 bit ASCII char input, clk and a test bench whic
 
 Welcome to the Verilog ASCII Calculator project! This hardware calculator is designed to perform basic arithmetic operations on single-digit operands (0 to 9) with support for one operator. The calculator reads input from a file and operates in a clock-driven environment.
 
+## FSM:
+![fsm](https://github.com/Rahul-Cheruku/Verilog-Calculator-ASCII/assets/77064752/ec4cbec4-5a3e-4efd-9865-0a9bfdd923e8)
+
+
 ## Usage
 
 1. **Clone the Repository:**
